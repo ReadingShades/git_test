@@ -1,0 +1,1 @@
+This is ReadingShades' first git project!
